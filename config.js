@@ -7,15 +7,15 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['48699524365', 'Baron', true],
+  ['16023344194', 'Baron', true],
   [''] 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['48699524365'] 
-global.prems = ['48699524365']
-global.allowed = ['48699524365']
+global.mods = ['16023344194'] 
+global.prems = ['16023344194']
+global.allowed = ['16023344194']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -54,11 +54,11 @@ global.premium = 'true'
 global.packname = 'Baron┃ᴮᴼᵀ' 
 global.author = '@Baron' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/6u.cg\n' 
+global.dygp = 'https://chat.whatsapp.com/CfzbffVK4gwC26hB0xaNm1'
+global.fgsc = 'https://github.com/Ramirami1/BARON0-BOT' 
+global.fgyt = 'https://t.me/ba_a0'
+global.fgpyp = 'https://youtube.com/c/schwarzebaron'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
