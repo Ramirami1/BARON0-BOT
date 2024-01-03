@@ -7,18 +7,16 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['1(602)3344194', 'Baron', true],
+  ['16023344194', 'Baron', true],
   ['4917865981357', 'Nanzuku', true], 
-  ['46766927046', 'Stormbreaker', true],
-  ['4917696122630', 'Baky', true],
   ['']
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
-global.pairingNumber = "4917865981357", "46766927046"
-global.mods = ['16023344194', '4917865981357'] 
-global.prems = ['16023344194', '46766927046', '4917865981357', '4917696122630', '3726602631']
-global.allowed = ['16023344194', '4917865981357']
+global.pairingNumber = "436769687658", "16023344194"
+global.mods = ['16023344194', '436769687658'] 
+global.prems = ['436769687658',  '16023344194']
+global.allowed = ['16023344194', '436769687658']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -52,7 +50,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = 'ᴛʜᴇ Guru-ʙᴏᴛ'
 global.premium = 'true'
 global.packname = 'Baron┃ᴮᴼᵀ' 
 global.author = '@Baron' 
